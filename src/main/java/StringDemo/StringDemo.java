@@ -1,7 +1,5 @@
 package StringDemo;
 
-import javax.xml.bind.SchemaOutputResolver;
-
 public class StringDemo {
     public static void main(String[] args) {
         //  java字符串是值不可变的语言
