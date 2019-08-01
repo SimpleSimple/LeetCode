@@ -5,7 +5,7 @@ public class MyHashMap {
     private List<Integer> buckets;
 
     public MyHashMap(){
-        buckets = new ArrayList<>();
+        buckets = new ArrayList<Integer>();
     }
 
     public boolean add(int value){
