@@ -1,4 +1,8 @@
+/.idea/*
 /.idea/workspace.xml
 /LeetCode.iml
 /.idea/compiler.xml
 /.idea
+
+/target
+/target/*
